@@ -291,7 +291,7 @@ namespace Bovelo
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label3.Location = new System.Drawing.Point(904, 5);
+            this.label3.Location = new System.Drawing.Point(867, 5);
             this.label3.Margin = new System.Windows.Forms.Padding(22, 0, 22, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(198, 31);
@@ -378,7 +378,7 @@ namespace Bovelo
             this.label10.BackColor = System.Drawing.Color.Transparent;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label10.Location = new System.Drawing.Point(42, 3);
+            this.label10.Location = new System.Drawing.Point(25, 3);
             this.label10.Margin = new System.Windows.Forms.Padding(22, 0, 22, 0);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(174, 37);
