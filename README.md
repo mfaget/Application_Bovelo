@@ -1,7 +1,8 @@
 # **Bovelo-project-group-4**  
 
 Software engineering 2 project
-
+# how to launch it ?
+Open the "Bovelo" folder , then open "bin" folder, "Debug" folder and run the "Bovelo.exe" file
 
 ## **1. Classes :**  
 
